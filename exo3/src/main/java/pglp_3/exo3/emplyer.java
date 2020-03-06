@@ -9,7 +9,7 @@ this.anciennete=anciennete;
 this.nom=nom;
 this.salaire=salaire;
 }
-
+   
 
 public int calcul_salaire() {
 	salaire= salaire+anciennete*20;
