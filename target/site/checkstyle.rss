@@ -26,7 +26,7 @@ under the License.
     <copyright>&#169;2020</copyright>
     <item>
       <title>File: 6,
-             Errors: 108,
+             Errors: 34,
              Warnings: 0,
              Infos: 0
       </title>
@@ -46,7 +46,7 @@ under the License.
           <tbody>
                           <tr>
                 <td>
-                  <a href="http://maven.apache.org/checkstyle.html#pglp_3.exo3.Manager.java">pglp_3/exo3/Manager.java</a>
+                  <a href="http://maven.apache.org/checkstyle.html#pglp3.exo3.package-info.java">pglp3/exo3/package-info.java</a>
                 </td>
                 <td>
                   0
@@ -55,12 +55,26 @@ under the License.
                   0
                 </td>
                 <td>
-                  15
+                  2
                 </td>
               </tr>
                           <tr>
                 <td>
-                  <a href="http://maven.apache.org/checkstyle.html#pglp_3.exo3.calcul.java">pglp_3/exo3/calcul.java</a>
+                  <a href="http://maven.apache.org/checkstyle.html#pglp3.exo3.vendeur.java">pglp3/exo3/vendeur.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#pglp3.exo3.entreprise.java">pglp3/exo3/entreprise.java</a>
                 </td>
                 <td>
                   0
@@ -74,7 +88,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="http://maven.apache.org/checkstyle.html#pglp_3.exo3.vendeur.java">pglp_3/exo3/vendeur.java</a>
+                  <a href="http://maven.apache.org/checkstyle.html#pglp3.exo3.emplyer.java">pglp3/exo3/emplyer.java</a>
                 </td>
                 <td>
                   0
@@ -83,12 +97,12 @@ under the License.
                   0
                 </td>
                 <td>
-                  18
+                  9
                 </td>
               </tr>
                           <tr>
                 <td>
-                  <a href="http://maven.apache.org/checkstyle.html#pglp_3.exo3.emplyer.java">pglp_3/exo3/emplyer.java</a>
+                  <a href="http://maven.apache.org/checkstyle.html#pglp3.exo3.Manager.java">pglp3/exo3/Manager.java</a>
                 </td>
                 <td>
                   0
@@ -97,12 +111,12 @@ under the License.
                   0
                 </td>
                 <td>
-                  34
+                  4
                 </td>
               </tr>
                           <tr>
                 <td>
-                  <a href="http://maven.apache.org/checkstyle.html#pglp_3.exo3.entreprise.java">pglp_3/exo3/entreprise.java</a>
+                  <a href="http://maven.apache.org/checkstyle.html#pglp3.exo3.calcul.java">pglp3/exo3/calcul.java</a>
                 </td>
                 <td>
                   0
@@ -111,21 +125,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  20
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#pglp_3.exo3.App.java">pglp_3/exo3/App.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  13
+                  5
                 </td>
               </tr>
                       </tbody>

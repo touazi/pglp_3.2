@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"pglp_3.exo3","l":"App"},{"p":"pglp_3.exo3","l":"calcul"},{"p":"pglp_3.exo3","l":"emplyer"},{"p":"pglp_3.exo3","l":"entreprise"},{"p":"pglp_3.exo3","l":"Manager"},{"p":"pglp_3.exo3","l":"vendeur"}]
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"pglp3.exo3","l":"calcul"},{"p":"pglp3.exo3","l":"emplyer"},{"p":"pglp3.exo3","l":"entreprise"},{"p":"pglp3.exo3","l":"Manager"},{"p":"pglp3.exo3","l":"vendeur"}]
